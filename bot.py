@@ -1,3 +1,5 @@
+#ESTUDOS DE PYAUTOGUI
+
 import pyautogui
 import time
 
