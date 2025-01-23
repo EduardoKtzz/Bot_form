@@ -3,6 +3,9 @@ import time
 
 pyautogui.PAUSE = 0.5
 
+#EXIBIR UM ALERTA
+pyautogui.alert("O código vai começar")
+
 #ABRIR CRHOME
 pyautogui.click(x=799,y=1068, button='right')
 time.sleep(2)
